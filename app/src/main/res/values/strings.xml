@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BankOMeter</string>
+    <string name="atm_locator">ATM LOCATOR</string>
+</resources>
